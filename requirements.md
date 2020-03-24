@@ -31,8 +31,7 @@ Add the following lights:
 - Use [single file ](https://vuejs.org/v2/guide/single-file-components.html) Vue compoents to encapsulate features.
 - The EventBus should be leveraged to execute blocks of code at the corret times.  
 - Mixins should be leveraged where applicable. 
-
-
+- Leverage component properties and or copmputed properties where applicable. 
 
 ## Bonus Functionality
 - **Random Color Buttons:** Add buttons that generate a random color and apply it to your model or objects when clicked.
