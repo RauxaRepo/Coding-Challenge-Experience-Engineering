@@ -11,12 +11,12 @@ The 3D scene should contain:
 Add some lighting to your scene.  The position and color of your lights are up to you. Have fun with it! 
 
 Add the following lights: 
-- 1 x Hemispehere light
+- 1 x Hemisphere light
 - 2 x Spot lights
 - 2 x Point Light
 
 ### Apply Color Buttons
-- Add a 3 buttons of diferent colors. 
+- Add a 3 buttons of different colors. 
 - Each button, when clicked, will update the color of your 3D object(s). 
 - Button 1, should update your primitive. 
 - Button 2 and 3 can update your gLTF model 
@@ -28,10 +28,10 @@ Add the following lights:
 - The image used for the texture can be local to the application or hosted somewhere.  
 
 ## VueJS Requirements
-- Use [single file ](https://vuejs.org/v2/guide/single-file-components.html) Vue compoents to encapsulate features.
-- The EventBus should be leveraged to execute blocks of code at the corret times.  
+- Use [single file ](https://vuejs.org/v2/guide/single-file-components.html) Vue components to encapsulate features.
+- The EventBus should be leveraged to execute blocks of code at the correct times.  
 - Mixins should be leveraged where applicable. 
-- Leverage component properties and or copmputed properties where applicable. 
+- Leverage component properties and or computed properties where applicable. 
 
 ## Bonus Functionality
 - **Random Color Buttons:** Add buttons that generate a random color and apply it to your model or objects when clicked.

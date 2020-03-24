@@ -1,6 +1,6 @@
 # Guidelines
 
-## Structuting your Readme
+## Structuring your Readme
 Include the following items:
 
 * Description of the application.
