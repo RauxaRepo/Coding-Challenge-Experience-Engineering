@@ -1,4 +1,4 @@
-Coding Challenge VueJS
+Coding Challenge Experience Engineering
 ======================
 
 This coding challenge is aimed at testing your strengths with the VueJS front end framework. 
